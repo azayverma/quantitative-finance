@@ -1,0 +1,254 @@
+ID,REGION,COUNTRY_NAME,COUNTRY_CODE
+AF,Asia,Afghanistan,AF
+AZ,Asia,Azerbaijan,AZ
+BD,Asia,Bangladesh,BD
+BT,Asia,Bhutan,BT
+IO,Asia,British Indian Ocean Terr.,IO
+BN,Asia,Brunei Darussalam,BN
+KH,Asia,Cambodia,KH
+CN,Asia,China,CN
+HK,Asia,Hong Kong,HK
+IN,Asia,India,IN
+ID,Asia,Indonesia,ID
+JP,Asia,Japan,JP
+KZ,Asia,Kazakhstan,KZ
+KG,Asia,Kyrgyz Republic,KG
+LA,Asia,Laos,LA
+MO,Asia,Macau,MO
+MY,Asia,Malaysia,MY
+MV,Asia,Maldives,MV
+MN,Asia,Mongolia,MN
+MM,Asia,Myanmar,MM
+NP,Asia,Nepal,NP
+KP,Asia,North Korea,KP
+PK,Asia,Pakistan,PK
+PH,Asia,Philippines,PH
+SG,Asia,Singapore,SG
+KR,Asia,South Korea,KR
+LK,Asia,Sri Lanka,LK
+TW,Asia,Taiwan,TW
+TJ,Asia,Tajikistan,TJ
+TH,Asia,Thailand,TH
+TL,Asia,Timor-Leste,TL
+TM,Asia,Turkmenistan,TM
+UZ,Asia,Uzbekistan,UZ
+VN,Asia,Vietnam,VN
+AS,AustraliaOceania,American Samoa,AS
+AU,AustraliaOceania,Australia,AU
+CX,AustraliaOceania,Christmas Island,CX
+CC,AustraliaOceania,Cocos (Keeling) Islands,CC
+CK,AustraliaOceania,Cook Islands,CK
+FJ,AustraliaOceania,Fiji,FJ
+PF,AustraliaOceania,French Polynesia,PF
+GU,AustraliaOceania,Guam,GU
+HM,AustraliaOceania,Heard/Macdonld,HM
+KI,AustraliaOceania,Kiribati,KI
+MH,AustraliaOceania,Marshall Islands,MH
+FM,AustraliaOceania,"Micronesia, Federal States",FM
+NR,AustraliaOceania,Nauru,NR
+NC,AustraliaOceania,New Caledonia,NC
+NZ,AustraliaOceania,New Zealand,NZ
+NU,AustraliaOceania,Niue,NU
+NF,AustraliaOceania,Norfolk Island,NF
+MP,AustraliaOceania,Northern Mariana Islands,MP
+PW,AustraliaOceania,Palau,PW
+PG,AustraliaOceania,Papua New Guinea,PG
+PN,AustraliaOceania,Pitcairn,PN
+WS,AustraliaOceania,Samoa,WS
+SB,AustraliaOceania,Solomon Islands,SB
+TK,AustraliaOceania,Tokelau,TK
+TO,AustraliaOceania,Tonga,TO
+TV,AustraliaOceania,Tuvalu,TV
+VU,AustraliaOceania,Vanuatu,VU
+WF,AustraliaOceania,Wallis and Futuna,WF
+AX,EasternEurope,Aland Islands,AX
+AL,EasternEurope,Albania,AL
+AM,EasternEurope,Armenia,AM
+BY,EasternEurope,Belarus,BY
+BA,EasternEurope,Bosnia & Herzegovina,BA
+BG,EasternEurope,Bulgaria,BG
+HR,EasternEurope,Croatia,HR
+CY,EasternEurope,Cyprus,CY
+CZ,EasternEurope,Czech Republic,CZ
+EE,EasternEurope,Estonia,EE
+GE,EasternEurope,Georgia,GE
+HU,EasternEurope,Hungary,HU
+XK,EasternEurope,Kosovo,XK
+LV,EasternEurope,Latvia,LV
+LT,EasternEurope,Lithuania,LT
+MK,EasternEurope,Macedonia,MK
+MD,EasternEurope,Moldova,MD
+ME,EasternEurope,Montenegro,ME
+PL,EasternEurope,Poland,PL
+RO,EasternEurope,Romania,RO
+RU,EasternEurope,Russia,RU
+RS,EasternEurope,Serbia,RS
+SK,EasternEurope,Slovakia,SK
+SI,EasternEurope,Slovenia,SI
+SJ,EasternEurope,Svalbard & Jan Mayen Islands,SJ
+TR,EasternEurope,Turkey,TR
+UA,EasternEurope,Ukraine,UA
+DZ,MENA,Algeria,DZ
+BH,MENA,Bahrain,BH
+DJ,MENA,Djibouti,DJ
+EG,MENA,Egypt,EG
+IR,MENA,Iran,IR
+IQ,MENA,Iraq,IQ
+IL,MENA,Israel,IL
+JO,MENA,Jordan,JO
+KW,MENA,Kuwait,KW
+LB,MENA,Lebanon,LB
+LY,MENA,Libya,LY
+MA,MENA,Morocco,MA
+OM,MENA,Oman,OM
+PS,MENA,Palestinian Authority,PS
+QA,MENA,Qatar,QA
+SA,MENA,Saudi Arabia,SA
+SY,MENA,Syria,SY
+TN,MENA,Tunisia,TN
+AE,MENA,United Arab Emirates,AE
+EH,MENA,Western Sahara,EH
+YE,MENA,Yemen,YE
+CA,NorthAmerica,Canada,CA
+MX,NorthAmerica,Mexico,MX
+PM,NorthAmerica,Saint Pierre and Miquelon,PM
+UM,NorthAmerica,US Minor Outlying Islands,UM
+US,NorthAmerica,United States of America,US
+AI,SouthCentralAmerica,Anguilla,AI
+AG,SouthCentralAmerica,Antigua & Barbuda,AG
+AR,SouthCentralAmerica,Argentina,AR
+AW,SouthCentralAmerica,Aruba,AW
+BQ,SouthCentralAmerica,BES Islands,BQ
+BS,SouthCentralAmerica,Bahamas,BS
+BB,SouthCentralAmerica,Barbados,BB
+BZ,SouthCentralAmerica,Belize,BZ
+BM,SouthCentralAmerica,Bermuda,BM
+BO,SouthCentralAmerica,Bolivia,BO
+BV,SouthCentralAmerica,Bouvet Island,BV
+BR,SouthCentralAmerica,Brazil,BR
+VG,SouthCentralAmerica,British Virgin Islands,VG
+KY,SouthCentralAmerica,Cayman Islands,KY
+CL,SouthCentralAmerica,Chile,CL
+CO,SouthCentralAmerica,Colombia,CO
+CR,SouthCentralAmerica,Costa Rica,CR
+CU,SouthCentralAmerica,Cuba,CU
+CW,SouthCentralAmerica,Curacao,CW
+DM,SouthCentralAmerica,Dominica,DM
+DO,SouthCentralAmerica,Dominican Republic,DO
+EC,SouthCentralAmerica,Ecuador,EC
+SV,SouthCentralAmerica,El Salvador,SV
+FK,SouthCentralAmerica,Falkland Islands,FK
+GF,SouthCentralAmerica,French Guiana,GF
+GD,SouthCentralAmerica,Grenada,GD
+GP,SouthCentralAmerica,Guadeloupe,GP
+GT,SouthCentralAmerica,Guatemala,GT
+GY,SouthCentralAmerica,Guyana,GY
+HT,SouthCentralAmerica,Haiti,HT
+HN,SouthCentralAmerica,Honduras,HN
+JM,SouthCentralAmerica,Jamaica,JM
+MQ,SouthCentralAmerica,Martinique,MQ
+MS,SouthCentralAmerica,Montserrat,MS
+AN,SouthCentralAmerica,Neth. Antilles,AN
+NI,SouthCentralAmerica,Nicaragua,NI
+PA,SouthCentralAmerica,Panama,PA
+PZ,SouthCentralAmerica,Panama Canal Zone,PZ
+PY,SouthCentralAmerica,Paraguay,PY
+PE,SouthCentralAmerica,Peru,PE
+PR,SouthCentralAmerica,Puerto Rico,PR
+GS,SouthCentralAmerica,S.Georgia/S.Sandwich,GS
+BL,SouthCentralAmerica,St Barthelemy,BL
+KN,SouthCentralAmerica,St. Kitts & Nevis,KN
+LC,SouthCentralAmerica,St. Lucia,LC
+SX,SouthCentralAmerica,St. Maarten (Dutch part),SX
+MF,SouthCentralAmerica,St. Martin (French part),MF
+VC,SouthCentralAmerica,St. Vincent & the Grenadines,VC
+SR,SouthCentralAmerica,Suriname,SR
+TT,SouthCentralAmerica,Trinidad & Tobago,TT
+TC,SouthCentralAmerica,Turks & Caicos Islands,TC
+UY,SouthCentralAmerica,Uruguay,UY
+VE,SouthCentralAmerica,Venezuela,VE
+VI,SouthCentralAmerica,Virgin Islands (U.S.A.),VI
+AO,SubsaharanAfrica,Angola,AO
+BJ,SubsaharanAfrica,Benin,BJ
+BW,SubsaharanAfrica,Botswana,BW
+BF,SubsaharanAfrica,Burkina Faso,BF
+BI,SubsaharanAfrica,Burundi,BI
+CM,SubsaharanAfrica,Cameroon,CM
+CV,SubsaharanAfrica,Cape Verde,CV
+CF,SubsaharanAfrica,Central African Republic,CF
+TD,SubsaharanAfrica,Chad,TD
+KM,SubsaharanAfrica,Comoros,KM
+CD,SubsaharanAfrica,"Congo, Democratic Republic",CD
+CG,SubsaharanAfrica,"Congo, Republic",CG
+GQ,SubsaharanAfrica,Equatorial Guinea,GQ
+ER,SubsaharanAfrica,Eritrea,ER
+ET,SubsaharanAfrica,Ethiopia,ET
+TF,SubsaharanAfrica,French Southern Territories,TF
+GA,SubsaharanAfrica,Gabon,GA
+GM,SubsaharanAfrica,Gambia,GM
+GH,SubsaharanAfrica,Ghana,GH
+GN,SubsaharanAfrica,Guinea,GN
+GW,SubsaharanAfrica,Guinea-Bissau,GW
+CI,SubsaharanAfrica,Ivory Coast,CI
+KE,SubsaharanAfrica,Kenya,KE
+LS,SubsaharanAfrica,Lesotho,LS
+LR,SubsaharanAfrica,Liberia,LR
+MG,SubsaharanAfrica,Madagascar,MG
+MW,SubsaharanAfrica,Malawi,MW
+ML,SubsaharanAfrica,Mali,ML
+MR,SubsaharanAfrica,Mauritania,MR
+MU,SubsaharanAfrica,Mauritius,MU
+YT,SubsaharanAfrica,Mayotte,YT
+MZ,SubsaharanAfrica,Mozambique,MZ
+NA,SubsaharanAfrica,Namibia,NA
+NE,SubsaharanAfrica,Niger,NE
+NG,SubsaharanAfrica,Nigeria,NG
+RE,SubsaharanAfrica,Reunion,RE
+RW,SubsaharanAfrica,Rwanda,RW
+ST,SubsaharanAfrica,Sao Tome & Principe,ST
+SN,SubsaharanAfrica,Senegal,SN
+SC,SubsaharanAfrica,Seychelles,SC
+SL,SubsaharanAfrica,Sierra Leone,SL
+SO,SubsaharanAfrica,Somalia,SO
+ZA,SubsaharanAfrica,South Africa,ZA
+SS,SubsaharanAfrica,South Sudan,SS
+SH,SubsaharanAfrica,"St Helena, Asc. & TdC",SH
+SD,SubsaharanAfrica,Sudan,SD
+SZ,SubsaharanAfrica,Swaziland,SZ
+TZ,SubsaharanAfrica,Tanzania,TZ
+TG,SubsaharanAfrica,Togo,TG
+UG,SubsaharanAfrica,Uganda,UG
+ZM,SubsaharanAfrica,Zambia,ZM
+ZW,SubsaharanAfrica,Zimbabwe,ZW
+AD,WesternEurope,Andorra,AD
+AT,WesternEurope,Austria,AT
+BE,WesternEurope,Belgium,BE
+CS,WesternEurope,Channel Islands,CS
+DK,WesternEurope,Denmark,DK
+FO,WesternEurope,Faeroe Islands,FO
+FI,WesternEurope,Finland,FI
+FR,WesternEurope,France,FR
+DE,WesternEurope,Germany,DE
+GI,WesternEurope,Gibraltar,GI
+GR,WesternEurope,Greece,GR
+GL,WesternEurope,Greenland,GL
+GG,WesternEurope,Guernsey,GG
+VA,WesternEurope,Holy See,VA
+IS,WesternEurope,Iceland,IS
+IE,WesternEurope,Ireland,IE
+IM,WesternEurope,Isle of Man,IM
+IT,WesternEurope,Italy,IT
+JE,WesternEurope,Jersey,JE
+LI,WesternEurope,Liechtenstein,LI
+LU,WesternEurope,Luxembourg,LU
+MT,WesternEurope,Malta,MT
+MC,WesternEurope,Monaco,MC
+NL,WesternEurope,Netherlands,NL
+NO,WesternEurope,Norway,NO
+PT,WesternEurope,Portugal,PT
+SM,WesternEurope,San Marino,SM
+ZB,WesternEurope,Seborga,ZB
+ES,WesternEurope,Spain,ES
+SE,WesternEurope,Sweden,SE
+CH,WesternEurope,Switzerland,CH
+GB,WesternEurope,United Kingdom,GB
